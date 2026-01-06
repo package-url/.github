@@ -10,6 +10,6 @@ We currently host repositories for 12 tools that implement PURL and 2 that imple
 We welcome your participation. Some ways to get started are:
 - Join our one of our [biweekly PURL community meetings](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M3RjcHM3Ym1rNGhwdXVlcWJsdDNkNWZucWlfMjAyNTA4MDZUMTYwMDAwWiBjXzg4NGRlY2RlNWExNTI5MDJiYjUxYTYyZjg5NTUwZDBmMzc0ODQ4NDUzNGYwOGM2Mzc5MmYyZTY1NGYyYTdlYmNAZw&tmsrc=c_884decde5a152902bb51a62f89550d0f3748484534f08c63792f2e654f2a7ebc%40group.calendar.google.com&scp=ALL)
 - Join the conversation on Slack at:
-  - [AboutCode purl channel](https://app.slack.com/huddle/T015S72HSUU/C08LBQMA7DE)
+  - [AboutCode purl channel](https://aboutcode-org.slack.com/archives/C08LBQMA7DE)
   - [OWASP CycloneDX purl channel](https://cyclonedx.slack.com/archives/C06KTE3BWEB)
  
